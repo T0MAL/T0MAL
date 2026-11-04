@@ -3,7 +3,7 @@
 
 **Machine Learning Engineer | AI Researcher**
 
-I work on computer vision, vision-language models, few-shot learning, and agentic AI. I'm interested in building reliable, efficient, and generalizable AI systems.
+I work on computer vision, vision-language models, few-shot learning, and agentic AI. I'm interested in building reliable, efficient, and generalizable Vision AI systems.
 
 🌐 [Portfolio](https://tahmidtomal.com)
 
