@@ -30,6 +30,6 @@ I work on computer vision, vision-language models, few-shot learning, and agenti
 
 ## 🔬 Research Interests
 
-Computer Vision • Vision-Language Models • Continual Learning • Agentic AI
+Computer Vision • Vision-Language Models • Continual Learning • Representation Learning
 
 Explore more at [tahmidtomal.com](https://tahmidtomal.com).
