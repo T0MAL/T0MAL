@@ -4,7 +4,7 @@
 
 I work on computer vision, vision-language models, few-shot learning, and agentic AI. I'm interested in building reliable, efficient, and generalizable Vision AI systems.
 
-🌐 [Portfolio](https://tahmidtomal.com)
+🌐 [Research Portfolio](https://tahmidtomal.com)
 
 ## 🛠️ Tech Stack
 
