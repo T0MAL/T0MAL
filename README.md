@@ -32,10 +32,4 @@ I work on computer vision, vision-language models, few-shot learning, and agenti
 
 Computer Vision • Vision-Language Models • Continual Learning • Agentic AI
 
-## 📌 Featured Projects
-
-- **Few-Shot Class-Incremental Learning** — Prototype estimation and query-assisted refinement.
-- **Multimodal RAG** — Retrieval and reasoning for Bengali educational content.
-- **Document AI** — OCR and structured information extraction.
-
 Explore more at [tahmidtomal.com](https://tahmidtomal.com).
